@@ -9,9 +9,10 @@
 ```
 ## Running
 ```
-1. node ward.js
-if you havn't address.txt in your directory, the first run bot will generate 150 addresses. and you have to run 'node ward.js' a second time
+node ward.js
+
 ```
 
 ## CATATAN
-kopi jangan lupa
+```if you havn't address.txt in your directory, the first run bot will generate 150 addresses. and you have to run 'node ward.js' a second time```
+
